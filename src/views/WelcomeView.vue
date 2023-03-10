@@ -45,4 +45,5 @@ export default {
 .welcome button{
   margin: 20px auto;
 }
+
 </style>
