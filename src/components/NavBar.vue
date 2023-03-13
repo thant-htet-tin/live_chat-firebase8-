@@ -25,8 +25,6 @@ export default {
             await signout();
         };
 
-        
-
 
         return {error,logout,user};
     }
