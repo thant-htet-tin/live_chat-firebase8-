@@ -16,7 +16,7 @@ import { ref } from 'vue';
 import Login from '../components/Login';
 import SignUp from '../components/SignUp';
 import { useRouter } from 'vue-router';
-
+ 
 export default {
   components: {
     Login, SignUp },

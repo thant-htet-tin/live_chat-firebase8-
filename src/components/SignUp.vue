@@ -26,6 +26,7 @@ export default {
           if(res){
             context.emit('enterChatroom');
             
+            
           }else{
             console.log(error.value);
           }
